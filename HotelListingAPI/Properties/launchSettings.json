@@ -12,7 +12,7 @@
     "HotelListingAPI": {
       "commandName": "Project",
       "launchBrowser": true,
-      "applicationUrl": "http://localhost:12499",
+      "applicationUrl": "http://localhost:39688",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

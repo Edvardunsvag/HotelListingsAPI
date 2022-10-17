@@ -8,3 +8,23 @@
 2022-10-17 10:34:00.743 +02:00 [INF] Hosting environment: Development
 2022-10-17 10:34:00.743 +02:00 [INF] Content root path: /Users/edvardunsvag/Jobb-Dev/HotelListingAPI/HotelListingAPI/HotelListingAPI/
 2022-10-17 10:34:01.777 +02:00 [WRN] Failed to determine the https port for redirect.
+2022-10-17 13:12:57.389 +02:00 [INF] Now listening on: http://localhost:39688
+2022-10-17 13:12:57.491 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-17 13:12:57.491 +02:00 [INF] Hosting environment: Development
+2022-10-17 13:12:57.492 +02:00 [INF] Content root path: /Users/edvardunsvag/Jobb-Dev/HotelListingAPI/HotelListingAPI/HotelListingAPI/
+2022-10-17 13:12:58.570 +02:00 [WRN] Failed to determine the https port for redirect.
+2022-10-17 14:40:47.038 +02:00 [INF] Now listening on: http://localhost:39688
+2022-10-17 14:40:47.134 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-17 14:40:47.134 +02:00 [INF] Hosting environment: Development
+2022-10-17 14:40:47.134 +02:00 [INF] Content root path: /Users/edvardunsvag/Jobb-Dev/HotelListingAPI/HotelListingAPI/HotelListingAPI/
+2022-10-17 14:40:48.192 +02:00 [WRN] Failed to determine the https port for redirect.
+2022-10-17 14:49:22.372 +02:00 [INF] Now listening on: http://localhost:39688
+2022-10-17 14:49:22.449 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-17 14:49:22.450 +02:00 [INF] Hosting environment: Development
+2022-10-17 14:49:22.450 +02:00 [INF] Content root path: /Users/edvardunsvag/Jobb-Dev/HotelListingAPI/HotelListingAPI/HotelListingAPI/
+2022-10-17 14:49:23.532 +02:00 [WRN] Failed to determine the https port for redirect.
+2022-10-17 15:28:47.465 +02:00 [INF] Now listening on: http://localhost:39688
+2022-10-17 15:28:47.517 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-17 15:28:47.517 +02:00 [INF] Hosting environment: Development
+2022-10-17 15:28:47.517 +02:00 [INF] Content root path: /Users/edvardunsvag/Jobb-Dev/HotelListingAPI/HotelListingAPI/HotelListingAPI/
+2022-10-17 15:28:48.608 +02:00 [WRN] Failed to determine the https port for redirect.
