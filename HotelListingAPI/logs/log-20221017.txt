@@ -1,0 +1,10 @@
+2022-10-17 10:33:38.820 +02:00 [INF] Now listening on: http://localhost:12499
+2022-10-17 10:33:38.924 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-17 10:33:38.924 +02:00 [INF] Hosting environment: Development
+2022-10-17 10:33:38.924 +02:00 [INF] Content root path: /Users/edvardunsvag/Jobb-Dev/HotelListingAPI/HotelListingAPI/HotelListingAPI/
+2022-10-17 10:33:40.001 +02:00 [WRN] Failed to determine the https port for redirect.
+2022-10-17 10:34:00.672 +02:00 [INF] Now listening on: http://localhost:12499
+2022-10-17 10:34:00.743 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-17 10:34:00.743 +02:00 [INF] Hosting environment: Development
+2022-10-17 10:34:00.743 +02:00 [INF] Content root path: /Users/edvardunsvag/Jobb-Dev/HotelListingAPI/HotelListingAPI/HotelListingAPI/
+2022-10-17 10:34:01.777 +02:00 [WRN] Failed to determine the https port for redirect.
